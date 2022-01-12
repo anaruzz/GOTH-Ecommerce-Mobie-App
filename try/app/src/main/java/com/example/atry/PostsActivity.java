@@ -21,4 +21,9 @@ public class PostsActivity extends AppCompatActivity {
         startActivity(i);
 
     }
+
+    public void LaunchShoppingCart(View v) {
+        Intent i = new Intent(this, ShoppingCartActivity.class);
+        startActivity(i);
+    }
 }

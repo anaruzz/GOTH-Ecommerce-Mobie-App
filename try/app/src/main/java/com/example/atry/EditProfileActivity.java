@@ -18,4 +18,9 @@ public class EditProfileActivity extends AppCompatActivity {
         Intent i = new Intent(this, HomeActivity.class);
         startActivity(i);
     }
+
+    public void LaunchShoppingCart(View v) {
+        Intent i = new Intent(this, ShoppingCartActivity.class);
+        startActivity(i);
+    }
 }

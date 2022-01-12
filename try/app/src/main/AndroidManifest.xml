@@ -10,6 +10,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Try">
         <activity
+            android:name=".ShoppingCartActivity"
+            android:exported="false" />
+        <activity
+            android:name=".SkirtsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".AccessoriesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".CorsetsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".HoodiesActivity"
+            android:exported="false" />
+        <activity
+            android:name=".TshirtsActivity"
+            android:exported="false" />
+        <activity
             android:name=".MerchActivity"
             android:exported="false" />
         <activity

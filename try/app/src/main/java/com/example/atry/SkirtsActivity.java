@@ -6,18 +6,14 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 
-public class SignUpActivity extends AppCompatActivity {
+public class SkirtsActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_sign_up);
+        setContentView(R.layout.activity_skirts);
     }
 
-    public void EditProfileActivity(View v) {
-        Intent i = new Intent(this, EditProfileActivity.class);
-        startActivity(i);
-    }
 
     public void LaunchShoppingCart(View v) {
         Intent i = new Intent(this, ShoppingCartActivity.class);

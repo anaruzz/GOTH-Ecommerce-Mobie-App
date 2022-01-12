@@ -3,13 +3,19 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_accessories.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_corsets.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_edit_profile.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_hoodies.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_merch.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_playlists.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_posts.xml" value="0.25" />
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_shopping_cart.xml" value="0.22" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_skirts.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_tshirts.xml" value="0.25" />
         <entry key="..\:/Users/Ghofrane/AndroidStudioProjects/try/app/src/main/res/layout/activity_tshirts_acitvity.xml" value="0.20416666666666666" />
       </map>
     </option>
